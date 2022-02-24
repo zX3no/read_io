@@ -2,7 +2,11 @@
 name = "read_io"
 version = "0.1.0"
 edition = "2021"
+authors = ["Bay"]
+description = "A macro to read user input easily."
+repository = "https://github.com/zX3no/read_io"
+readme = "README.md"
+license = "MIT"
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
